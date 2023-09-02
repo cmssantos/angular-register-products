@@ -6,7 +6,7 @@
   "scripts": {
     "start": "json-server --watch db.json --port 3001"
   },
-  "keywords": [],
+  "keywords": ["angular 9"],
   "author": "Cleudice Santos",
   "license": "ISC",
   "dependencies": {
